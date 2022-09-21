@@ -1,0 +1,526 @@
+﻿Field,Field1,Field2,Field3,Field4,Field5,Field6,Field7,Field8,Field9,Field10,Field11,sortcell,Field12,Field13,Field14,Field15
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+1,"LeBron James, MIA",76,37.9,.640,23.3,9.6,28.2,4.4,20.8,13.1,31.67,31.67,909.0,30.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1966,LeBron James
+2,"Henry Sims, NO",2,2.5,.667,0.0,25.0,33.3,46.8,0.0,23.8,29.30,29.30,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6647,Henry Sims
+3,"Kevin Durant, OKC",81,38.5,.647,15.5,11.6,27.4,1.8,20.3,11.8,28.35,28.35,830.8,27.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3202,Kevin Durant
+4,"Chris Paul, LAC",70,33.4,.594,36.9,8.7,23.9,2.8,10.5,6.7,26.43,26.43,537.7,17.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2779,Chris Paul
+5,"Carmelo Anthony, NY",67,37.0,.560,8.3,8.5,32.2,6.1,15.9,10.8,24.83,24.83,530.8,17.7,http://insider.espn.go.com/nba/players/hollinger?playerId=1975,Carmelo Anthony
+6,"Brook Lopez, BKN",74,30.4,.567,4.8,8.9,26.1,10.8,16.1,13.4,24.81,24.81,477.8,15.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3448,Brook Lopez
+7,"Tim Duncan, SA",69,30.1,.554,12.8,10.2,24.8,7.3,29.6,19.1,24.45,24.45,401.7,13.4,http://insider.espn.go.com/nba/players/hollinger?playerId=215,Tim Duncan
+8,"Dwyane Wade, MIA",69,34.7,.571,19.3,10.6,27.0,4.7,12.6,8.9,24.04,24.04,483.1,16.1,http://insider.espn.go.com/nba/players/hollinger?playerId=1987,Dwyane Wade
+9,"Russell Westbrook, OKC",82,34.9,.532,22.8,10.2,31.2,4.8,11.8,8.6,23.98,23.98,554.4,18.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3468,Russell Westbrook
+10,"Tony Parker, SA",66,32.9,.588,27.6,9.4,26.6,1.0,9.1,5.3,23.10,23.10,392.7,13.1,http://insider.espn.go.com/nba/players/hollinger?playerId=1015,Tony Parker
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Kobe Bryant, LAL",78,38.6,.570,17.9,10.9,30.0,2.5,13.1,7.9,23.10,23.10,566.4,18.9,http://insider.espn.go.com/nba/players/hollinger?playerId=110,Kobe Bryant
+12,"James Harden, HOU",78,38.3,.600,18.7,12.1,27.4,2.4,11.9,7.2,23.00,23.00,556.9,18.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3992,James Harden
+13,"Blake Griffin, LAC",80,32.5,.572,17.2,10.6,24.0,8.7,21.5,15.2,22.44,22.44,424.3,14.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3989,Blake Griffin
+14,"Amar'e Stoudemire, NY",29,23.5,.637,3.4,12.9,22.8,10.0,15.1,12.4,22.16,22.16,108.5,3.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1727,Amar'e Stoudemire
+15,"Andray Blatche, BKN",82,19.0,.547,8.7,12.6,24.6,12.2,19.6,15.8,21.98,21.98,264.0,8.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2746,Andray Blatche
+16,"Anthony Davis, NO",64,28.8,.559,6.8,9.6,19.9,10.5,23.5,16.8,21.80,21.80,283.8,9.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6583,Anthony Davis
+17,"Anderson Varejao, CLE",25,36.0,.529,18.2,9.5,17.9,16.9,30.1,23.2,21.71,21.71,149.3,5.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2419,Anderson Varejao
+18,"Andre Drummond, DET",60,20.7,.578,6.0,11.4,15.6,15.4,27.2,21.2,21.69,21.69,205.7,6.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6585,Andre Drummond
+19,"Kyrie Irving, CLE",59,34.7,.553,20.1,11.0,29.2,1.8,10.8,6.1,21.51,21.51,321.3,10.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6442,Kyrie Irving
+20,"Stephen Curry, GS",78,38.2,.589,23.5,10.5,25.3,2.3,9.1,5.8,21.34,21.34,460.2,15.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3975,Stephen Curry
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+21,"Brandan Wright, DAL",64,18.0,.606,7.3,6.6,16.8,8.4,16.7,12.6,21.03,21.03,178.9,6.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3242,Brandan Wright
+22,"Al Jefferson, UTAH",78,33.1,.522,10.2,6.6,23.4,7.0,25.9,16.3,20.99,20.99,399.8,13.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2389,Al Jefferson
+23,"John Wall, WSH",49,32.7,.521,26.7,11.2,28.7,2.4,11.2,6.8,20.91,20.91,236.9,7.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4237,John Wall
+24,"JaVale McGee, DEN",79,18.1,.589,3.3,12.5,19.1,12.6,17.1,14.9,20.78,20.78,217.7,7.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3452,JaVale McGee
+25,"LaMarcus Aldridge, POR",74,37.7,.530,10.6,7.9,24.2,7.2,20.9,14.0,20.45,20.45,372.6,12.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2983,LaMarcus Aldridge
+26,"Deron Williams, BKN",78,36.4,.574,28.6,10.3,24.9,1.2,8.5,4.8,20.38,20.38,397.8,13.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2798,Deron Williams
+27,"Nikola Pekovic, MIN",62,31.6,.572,5.1,9.7,20.3,13.0,19.0,15.9,20.26,20.26,282.3,9.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3453,Nikola Pekovic
+28,"DeMarcus Cousins, SAC",75,30.5,.524,12.1,13.7,25.9,10.9,27.0,18.7,20.21,20.21,328.3,10.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4258,DeMarcus Cousins
+29,"David West, IND",73,33.4,.545,14.0,10.3,23.0,6.8,18.8,12.9,20.15,20.15,314.2,10.5,http://insider.espn.go.com/nba/players/hollinger?playerId=2177,David West
+30,"Chris Bosh, MIA",74,33.2,.592,9.5,9.9,20.0,7.0,17.6,12.6,20.08,20.08,347.3,11.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1977,Chris Bosh
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+31,"Paul Millsap, UTAH",78,30.4,.550,14.7,10.1,21.1,8.6,18.8,13.7,19.89,19.89,297.4,9.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3015,Paul Millsap
+32,"Jeremy Evans, UTAH",37,5.8,.641,14.2,10.3,13.2,14.0,17.6,15.8,19.88,19.88,30.1,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4295,Jeremy Evans
+,"Dirk Nowitzki, DAL",53,31.3,.564,13.0,6.9,21.9,2.5,21.5,12.2,19.88,19.88,207.6,6.9,http://insider.espn.go.com/nba/players/hollinger?playerId=609,Dirk Nowitzki
+34,"Al Horford, ATL",74,37.2,.560,15.6,9.6,19.9,8.2,23.0,15.7,19.84,19.84,379.9,12.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3213,Al Horford
+35,"JJ Hickson, POR",80,29.0,.591,8.0,13.2,18.0,13.2,28.5,20.7,19.71,19.71,315.8,10.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3437,JJ Hickson
+36,"Marc Gasol, MEM",80,35.0,.559,21.4,10.6,18.8,7.6,18.9,13.1,19.57,19.57,374.5,12.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3206,Marc Gasol
+37,"Greg Monroe, DET",81,33.2,.527,16.1,13.4,23.5,9.9,23.6,16.6,19.52,19.52,357.7,11.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4260,Greg Monroe
+38,"Dwight Howard, LAL",76,35.8,.573,7.4,15.4,19.9,10.4,27.4,19.1,19.48,19.48,360.7,12.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2384,Dwight Howard
+39,"Serge Ibaka, OKC",80,31.1,.612,4.2,12.1,15.9,11.1,17.0,14.2,19.41,19.41,293.3,9.8,http://insider.espn.go.com/nba/players/hollinger?playerId=3439,Serge Ibaka
+40,"Kevin Garnett, BOS",68,29.7,.535,13.2,9.1,21.9,4.5,25.8,15.5,19.25,19.25,261.0,8.7,http://insider.espn.go.com/nba/players/hollinger?playerId=261,Kevin Garnett
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+41,"David Lee, GS",79,36.8,.561,15.6,11.6,21.5,8.5,24.5,16.8,19.23,19.23,335.4,11.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2772,David Lee
+42,"Paul Pierce, BOS",77,33.4,.559,19.9,11.5,25.2,2.1,19.7,11.2,19.14,19.14,332.1,11.1,http://insider.espn.go.com/nba/players/hollinger?playerId=662,Paul Pierce
+43,"Manu Ginobili, SA",60,23.2,.560,26.5,12.7,24.0,2.6,13.4,8.3,19.05,19.05,177.7,5.9,http://insider.espn.go.com/nba/players/hollinger?playerId=272,Manu Ginobili
+44,"Robin Lopez, NO",82,26.0,.573,6.5,11.2,18.3,12.4,13.4,12.9,18.98,18.98,267.2,8.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3447,Robin Lopez
+45,"Tyson Chandler, NY",66,32.8,.671,9.4,13.1,11.8,14.1,24.3,19.0,18.88,18.88,267.4,8.9,http://insider.espn.go.com/nba/players/hollinger?playerId=984,Tyson Chandler
+46,"Kemba Walker, CHA",82,34.9,.517,22.7,9.6,24.8,2.3,9.2,5.7,18.86,18.86,335.5,11.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6479,Kemba Walker
+47,"Jose Calderon, DET/TOR",73,29.6,.616,39.4,9.6,16.5,1.1,8.6,4.8,18.80,18.80,251.5,8.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2806,Jose Calderon
+48,"Larry Sanders, MIL",71,27.3,.523,9.9,10.4,15.6,12.0,25.8,18.6,18.77,18.77,236.1,7.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4265,Larry Sanders
+49,"Tiago Splitter, SA",81,24.7,.609,14.2,10.9,16.3,8.8,20.3,14.9,18.72,18.72,242.0,8.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3233,Tiago Splitter
+50,"Samuel Dalembert, MIL",47,16.3,.565,6.0,14.6,17.0,14.2,24.9,19.4,18.60,18.60,91.3,3.0,http://insider.espn.go.com/nba/players/hollinger?playerId=991,Samuel Dalembert
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+51,"Kenneth Faried, DEN",80,28.1,.573,7.7,11.3,16.2,13.2,23.2,18.3,18.52,18.52,269.1,9.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6433,Kenneth Faried
+52,"Jordan Hill, LAL",29,15.8,.533,5.9,11.8,18.1,20.3,19.7,20.0,18.51,18.51,54.0,1.8,http://insider.espn.go.com/nba/players/hollinger?playerId=3994,Jordan Hill
+53,"Chris Johnson, MIN",30,9.5,.650,7.2,11.7,14.8,7.8,16.6,12.1,18.50,18.50,29.7,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4400,Chris Johnson
+54,"Mike Conley, MEM",80,34.5,.549,28.0,10.9,21.3,1.8,7.9,4.8,18.38,18.38,303.8,10.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3195,Mike Conley
+55,"Ersan Ilyasova, MIL",73,27.6,.552,11.0,7.0,19.0,7.9,20.3,13.9,18.37,18.37,236.3,7.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2767,Ersan Ilyasova
+56,"John Henson, MIL",63,13.1,.497,6.7,10.2,20.6,14.5,24.4,19.3,18.30,18.30,84.0,2.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6592,John Henson
+57,"Thaddeus Young, PHI",76,34.6,.541,10.0,7.2,18.1,7.6,17.2,12.3,18.27,18.27,305.0,10.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3244,Thaddeus Young
+58,"Ryan Anderson, NO",81,30.9,.548,7.0,7.0,22.0,8.9,15.9,12.4,18.17,18.17,249.1,8.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3412,Ryan Anderson
+59,"Tyreke Evans, SAC",65,31.0,.558,18.4,10.3,21.2,3.1,13.5,8.2,18.16,18.16,215.4,7.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3983,Tyreke Evans
+,"Joakim Noah, CHI",66,36.8,.534,22.4,15.0,16.9,12.2,22.6,17.3,18.16,18.16,273.7,9.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3224,Joakim Noah
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+61,"Rajon Rondo, BOS",38,37.4,.516,39.1,13.8,22.4,3.7,13.6,8.8,18.12,18.12,151.2,5.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3026,Rajon Rondo
+62,"Shawn Marion, DAL",67,30.0,.553,16.3,10.3,17.4,8.2,20.6,14.5,18.02,18.02,225.5,7.5,http://insider.espn.go.com/nba/players/hollinger?playerId=510,Shawn Marion
+63,"Kevin Love, MIN",18,34.3,.458,9.5,8.8,26.5,11.5,35.9,23.3,17.97,17.97,59.6,2.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3449,Kevin Love
+64,"Ty Lawson, DEN",73,34.4,.549,28.0,10.2,22.4,1.6,7.1,4.4,17.96,17.96,261.2,8.7,http://insider.espn.go.com/nba/players/hollinger?playerId=4000,Ty Lawson
+65,"Zach Randolph, MEM",76,34.3,.506,7.6,10.6,21.3,13.8,25.1,19.3,17.92,17.92,249.7,8.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1017,Zach Randolph
+66,"Vince Carter, DAL",81,25.8,.571,15.5,8.5,21.1,3.2,14.5,8.9,17.87,17.87,229.6,7.7,http://insider.espn.go.com/nba/players/hollinger?playerId=136,Vince Carter
+67,"Nikola Vucevic, ORL",77,33.2,.534,11.6,11.5,17.7,12.0,28.4,20.2,17.85,17.85,277.0,9.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6478,Nikola Vucevic
+68,"Josh Smith, ATL",76,35.3,.501,17.2,12.1,24.6,5.8,21.3,13.6,17.82,17.82,293.0,9.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2411,Josh Smith
+,"Ed Davis, TOR/MEM",81,20.1,.561,9.2,9.2,16.7,10.9,22.8,16.7,17.82,17.82,153.8,5.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4259,Ed Davis
+70,"Ramon Sessions, CHA",61,27.1,.529,19.8,8.9,24.5,1.8,10.1,5.9,17.80,17.80,167.6,5.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3231,Ramon Sessions
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+71,"JR Smith, NY",80,33.5,.522,12.5,7.7,24.4,2.7,16.3,9.3,17.67,17.67,286.7,9.6,http://insider.espn.go.com/nba/players/hollinger?playerId=2444,JR Smith
+,"Andrei Kirilenko, MIN",64,31.8,.590,18.3,12.3,16.5,5.6,15.1,10.2,17.67,17.67,217.6,7.3,http://insider.espn.go.com/nba/players/hollinger?playerId=434,Andrei Kirilenko
+73,"Enes Kanter, UTAH",70,15.4,.588,5.5,18.0,20.3,14.5,18.6,16.5,17.65,17.65,113.5,3.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6447,Enes Kanter
+74,"Eric Bledsoe, LAC",76,20.4,.513,23.4,13.7,21.9,6.1,11.1,8.6,17.60,17.60,153.0,5.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4238,Eric Bledsoe
+,"Carl Landry, GS",81,23.2,.605,7.2,12.7,17.9,10.9,17.3,14.2,17.60,17.60,170.7,5.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3217,Carl Landry
+76,"Isaiah Thomas, SAC",79,26.9,.574,22.3,9.9,22.2,1.5,7.3,4.4,17.58,17.58,208.3,6.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6472,Isaiah Thomas
+77,"Derrick Favors, UTAH",77,23.2,.533,8.5,14.6,18.9,11.9,24.0,17.9,17.57,17.57,161.9,5.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4257,Derrick Favors
+78,"Goran Dragic, PHX",77,33.5,.540,31.1,11.6,22.1,2.6,8.0,5.2,17.52,17.52,251.2,8.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3423,Goran Dragic
+79,"Kyle Lowry, TOR",68,29.7,.543,33.0,11.9,20.7,3.2,15.9,9.5,17.51,17.51,196.2,6.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3012,Kyle Lowry
+80,"Chris Andersen, MIA",42,14.9,.631,8.3,11.7,12.6,11.9,21.5,17.0,17.44,17.44,55.4,1.8,http://insider.espn.go.com/nba/players/hollinger?playerId=1135,Chris Andersen
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+81,"Nate Robinson, CHI",82,25.4,.540,23.9,9.6,24.8,1.6,8.6,5.1,17.43,17.43,200.1,6.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2782,Nate Robinson
+82,"Marreese Speights, CLE/MEM",79,16.5,.498,6.0,10.2,24.2,12.7,22.3,17.3,17.35,17.35,113.4,3.8,http://insider.espn.go.com/nba/players/hollinger?playerId=3460,Marreese Speights
+83,"Amir Johnson, TOR",81,28.7,.591,13.2,12.6,14.8,11.4,20.0,15.6,17.33,17.33,202.4,6.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2769,Amir Johnson
+84,"Roy Hibbert, IND",79,28.7,.489,9.2,13.1,20.8,14.8,17.4,16.1,17.32,17.32,227.7,7.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3436,Roy Hibbert
+85,"Kosta Koufos, DEN",81,22.4,.585,5.0,8.3,13.1,13.3,21.2,17.3,17.22,17.22,179.6,6.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3444,Kosta Koufos
+86,"DeAndre Jordan, LAC",82,24.5,.606,3.9,13.8,14.2,12.7,22.4,17.6,17.21,17.21,198.3,6.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3442,DeAndre Jordan
+87,"Carlos Boozer, CHI",79,32.2,.510,11.1,10.9,24.1,7.8,27.2,17.4,17.17,17.17,215.4,7.2,http://insider.espn.go.com/nba/players/hollinger?playerId=1703,Carlos Boozer
+88,"Terrence Jones, HOU",19,14.5,.512,11.6,10.0,16.6,11.6,15.0,13.4,17.11,17.11,23.1,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6597,Terrence Jones
+89,"Nene , WSH",61,27.2,.538,17.2,13.5,22.0,6.7,20.6,13.6,17.07,17.07,160.1,5.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1713,Nene 
+90,"Jordan Hamilton, DEN",40,9.9,.490,9.0,7.5,23.3,9.2,17.4,13.4,16.98,16.98,38.4,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6436,Jordan Hamilton
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+91,"Jamal Crawford, LAC",76,29.3,.558,13.2,10.0,24.2,1.2,5.6,3.4,16.89,16.89,212.7,7.1,http://insider.espn.go.com/nba/players/hollinger?playerId=165,Jamal Crawford
+,"Chris Copeland, NY",56,15.4,.583,5.5,10.1,22.6,4.5,11.9,8.1,16.89,16.89,82.2,2.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6635,Chris Copeland
+93,"Jason Smith, NO",51,17.2,.544,7.2,11.6,21.5,8.6,16.9,12.7,16.84,16.84,69.8,2.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3232,Jason Smith
+,"Paul George, IND",79,37.6,.531,17.6,12.6,22.4,3.4,19.0,11.3,16.84,16.84,281.3,9.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4251,Paul George
+95,"Jeff Teague, ATL",80,32.9,.543,30.8,12.2,22.7,1.1,6.7,3.9,16.82,16.82,228.4,7.6,http://insider.espn.go.com/nba/players/hollinger?playerId=4015,Jeff Teague
+96,"Gordon Hayward, UTAH",72,29.2,.564,17.2,9.7,21.0,2.8,9.8,6.3,16.81,16.81,198.2,6.6,http://insider.espn.go.com/nba/players/hollinger?playerId=4249,Gordon Hayward
+97,"Luis Scola, PHX",82,26.6,.516,13.7,9.5,21.7,8.1,20.4,14.1,16.80,16.80,172.8,5.8,http://insider.espn.go.com/nba/players/hollinger?playerId=1781,Luis Scola
+98,"Jermaine O'Neal, PHX",55,18.7,.538,7.8,13.6,19.5,8.9,23.8,16.2,16.76,16.76,94.7,3.2,http://insider.espn.go.com/nba/players/hollinger?playerId=615,Jermaine O'Neal
+99,"Pau Gasol, LAL",49,33.8,.512,20.8,10.8,19.5,7.6,20.1,14.0,16.75,16.75,129.6,4.3,http://insider.espn.go.com/nba/players/hollinger?playerId=996,Pau Gasol
+100,"Jrue Holiday, PHI",78,37.5,.496,27.0,12.6,26.2,3.3,9.5,6.4,16.74,16.74,250.5,8.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3995,Jrue Holiday
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+101,"Danilo Gallinari, DEN",71,32.5,.561,13.4,8.5,20.0,3.2,14.4,8.9,16.73,16.73,214.6,7.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3428,Danilo Gallinari
+,"Arnett Moultrie, PHI",47,11.5,.595,5.7,10.8,12.6,15.4,14.8,15.1,16.73,16.73,42.3,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6612,Arnett Moultrie
+103,"Rasheed Wallace, NY",21,14.1,.484,3.6,6.0,22.6,4.2,29.4,16.4,16.70,16.70,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=883,Rasheed Wallace
+104,"Will Bynum, DET",65,18.8,.532,24.2,13.1,26.6,2.6,6.6,4.6,16.62,16.62,102.2,3.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2816,Will Bynum
+105,"Wilson Chandler, DEN",43,25.1,.556,9.3,9.6,20.9,4.8,17.6,11.3,16.61,16.61,98.4,3.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3194,Wilson Chandler
+106,"George Hill, IND",76,34.5,.558,24.7,8.1,18.6,2.0,9.9,6.0,16.59,16.59,218.8,7.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3438,George Hill
+107,"Gerald Henderson, CHA",68,31.4,.531,13.9,8.5,21.8,2.9,10.8,6.7,16.48,16.48,190.4,6.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3993,Gerald Henderson
+108,"Kawhi Leonard, SA",58,31.2,.592,12.6,8.4,14.6,4.3,17.1,11.1,16.46,16.46,160.9,5.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6450,Kawhi Leonard
+109,"Damian Lillard, POR",82,38.6,.546,24.1,11.0,23.5,1.5,8.0,4.7,16.45,16.45,257.6,8.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6606,Damian Lillard
+110,"Darren Collison, DAL",81,29.3,.575,29.0,12.1,19.1,1.5,8.7,5.1,16.37,16.37,190.2,6.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3973,Darren Collison
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+111,"Greivis Vasquez, NO",78,34.4,.502,34.7,12.2,24.2,1.9,13.3,7.5,16.34,16.34,214.1,7.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4291,Greivis Vasquez
+,"Mike Scott, ATL",40,9.4,.533,5.9,10.3,20.9,12.1,21.3,16.7,16.34,16.34,27.2,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6622,Mike Scott
+113,"Chris Kaman, DAL",66,20.7,.529,6.3,12.7,22.2,8.0,22.0,15.1,16.32,16.32,116.8,3.9,http://insider.espn.go.com/nba/players/hollinger?playerId=1982,Chris Kaman
+,"Marcus Thornton, SAC",72,24.0,.552,9.2,6.9,21.1,3.2,9.0,6.0,16.32,16.32,149.9,5.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4017,Marcus Thornton
+115,"Monta Ellis, MIL",82,37.5,.493,21.1,10.8,25.5,1.5,9.8,5.5,16.30,16.30,243.3,8.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2751,Monta Ellis
+116,"Brandon Jennings, MIL",80,36.2,.510,24.9,9.7,23.4,2.1,7.2,4.6,16.20,16.20,224.8,7.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3997,Brandon Jennings
+,"Ricky Rubio, MIN",57,29.7,.482,34.3,14.1,22.1,2.9,12.9,7.7,16.20,16.20,131.2,4.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4011,Ricky Rubio
+118,"Greg Smith, HOU",70,15.9,.636,6.3,10.3,13.1,11.5,21.2,16.4,16.17,16.17,77.4,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6530,Greg Smith
+119,"Tristan Thompson, CLE",82,31.3,.516,9.3,10.6,16.9,13.2,22.1,17.5,16.12,16.12,176.9,5.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6474,Tristan Thompson
+120,"Kevin Martin, OKC",77,27.7,.608,9.7,9.2,18.9,1.8,7.4,4.8,16.09,16.09,178.3,5.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2394,Kevin Martin
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+121,"Dorell Wright, PHI",79,22.6,.551,17.1,7.3,17.6,2.6,17.0,9.6,16.07,16.07,148.1,4.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2423,Dorell Wright
+122,"Tobias Harris, MIL/ORL",55,23.6,.527,9.8,9.3,17.8,6.2,18.6,12.3,16.05,16.05,107.7,3.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6440,Tobias Harris
+123,"Spencer Hawes, PHI",82,27.2,.514,15.3,11.0,19.4,8.5,21.7,14.9,16.02,16.02,180.5,6.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3211,Spencer Hawes
+124,"Steve Nash, LAL",50,32.5,.605,33.8,12.8,18.3,1.8,7.7,4.8,16.00,16.00,121.4,4.0,http://insider.espn.go.com/nba/players/hollinger?playerId=592,Steve Nash
+125,"Lou Williams, ATL",39,28.7,.555,19.6,10.4,22.0,0.8,7.3,4.1,15.98,15.98,91.5,3.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2799,Lou Williams
+126,"Jarrett Jack, GS",79,29.7,.542,28.5,10.2,20.7,1.0,10.1,5.7,15.93,15.93,172.9,5.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2768,Jarrett Jack
+,"Shavlik Randolph, BOS",16,12.4,.559,5.4,13.5,14.5,17.2,24.3,20.9,15.93,15.93,13.1,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2810,Shavlik Randolph
+,"Quincy Acy, TOR",29,11.8,.632,9.2,14.2,13.4,10.3,16.6,13.4,15.93,15.93,27.7,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6576,Quincy Acy
+129,"Kyle O'Quinn, ORL",57,11.2,.535,17.0,12.1,17.0,11.5,25.5,18.5,15.89,15.89,41.8,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6615,Kyle O'Quinn
+130,"Emeka Okafor, WSH",79,26.0,.496,9.6,11.0,17.7,10.7,26.8,18.7,15.88,15.88,161.7,5.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2399,Emeka Okafor
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+131,"Ivan Johnson, ATL",69,15.0,.546,8.7,13.4,19.3,8.5,20.7,14.7,15.80,15.80,66.3,2.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6534,Ivan Johnson
+132,"Nicolas Batum, POR",73,38.5,.566,24.4,12.9,17.7,4.0,13.2,8.5,15.76,15.76,220.5,7.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3416,Nicolas Batum
+133,"Jonas Jerebko, DET",49,18.2,.531,9.8,9.6,18.7,8.6,15.4,11.9,15.72,15.72,56.2,1.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3998,Jonas Jerebko
+134,"Andre Miller, DEN",82,26.2,.548,35.2,12.5,18.9,3.2,9.1,6.2,15.69,15.69,150.6,5.0,http://insider.espn.go.com/nba/players/hollinger?playerId=557,Andre Miller
+135,"Rudy Gay, TOR/MEM",75,35.8,.494,11.3,11.1,26.7,4.3,16.3,10.2,15.66,15.66,207.1,6.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3005,Rudy Gay
+136,"Anthony Randolph, DEN",39,8.4,.534,6.6,20.2,20.5,10.1,22.1,16.2,15.65,15.65,20.4,0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3455,Anthony Randolph
+137,"Jonas Valanciunas, TOR",62,23.9,.619,7.7,16.0,15.3,9.6,20.5,14.9,15.62,15.62,111.1,3.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6477,Jonas Valanciunas
+138,"Matt Barnes, LAC",80,25.7,.566,13.1,9.6,16.8,6.5,14.5,10.6,15.57,15.57,155.8,5.2,http://insider.espn.go.com/nba/players/hollinger?playerId=1765,Matt Barnes
+139,"DeMarre Carroll, UTAH",66,16.8,.535,13.2,7.4,15.3,9.1,10.8,9.9,15.52,15.52,83.3,2.8,http://insider.espn.go.com/nba/players/hollinger?playerId=3970,DeMarre Carroll
+140,"Marcin Gortat, PHX",61,30.8,.543,9.4,12.4,15.8,7.6,24.0,15.6,15.45,15.45,135.8,4.5,http://insider.espn.go.com/nba/players/hollinger?playerId=2758,Marcin Gortat
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+141,"Eric Gordon, NO",42,30.1,.523,14.6,12.5,27.8,0.9,6.4,3.6,15.43,15.43,92.9,3.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3431,Eric Gordon
+142,"Patrick Beverley, HOU",41,17.4,.551,31.8,12.0,15.6,7.2,10.1,8.7,15.42,15.42,47.0,1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3964,Patrick Beverley
+,"Josh Emmanuel Akognon, DAL",3,3.0,.625,20.0,0.0,18.9,0.0,12.1,6.2,15.42,15.42,0.6,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6656,Josh Emmanuel Akognon
+144,"Antawn Jamison, LAL",76,21.5,.561,6.8,7.2,16.8,7.5,16.6,12.2,15.39,15.39,94.9,3.2,http://insider.espn.go.com/nba/players/hollinger?playerId=385,Antawn Jamison
+145,"C.J. Miles, CLE",65,21.0,.551,7.9,8.7,21.9,1.9,13.4,7.4,15.38,15.38,99.3,3.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2778,C.J. Miles
+146,"Tyler Hansbrough, IND",81,16.9,.527,5.5,11.9,18.7,13.4,17.0,15.2,15.35,15.35,78.5,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3991,Tyler Hansbrough
+147,"Chandler Parsons, HOU",76,36.3,.584,18.9,10.3,17.3,3.3,13.2,8.3,15.33,15.33,198.8,6.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6466,Chandler Parsons
+148,"Chris Wilcox, BOS",61,13.6,.725,9.4,14.5,10.6,8.1,17.3,12.8,15.32,15.32,47.4,1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1731,Chris Wilcox
+149,"Andre Iguodala, DEN",80,34.7,.520,26.5,12.6,18.7,3.4,13.5,8.5,15.27,15.27,197.9,6.6,http://insider.espn.go.com/nba/players/hollinger?playerId=2386,Andre Iguodala
+150,"Jimmy Butler, CHI",82,26.0,.574,14.5,7.8,13.8,7.2,10.4,8.8,15.26,15.26,151.6,5.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6430,Jimmy Butler
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+151,"Patrick Patterson, HOU/SAC",71,25.0,.566,10.2,7.7,16.8,7.2,14.4,10.8,15.23,15.23,98.7,3.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4264,Patrick Patterson
+152,"Raymond Felton, NY",68,34.0,.505,25.4,10.6,21.6,2.5,7.5,4.9,15.22,15.22,145.7,4.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2753,Raymond Felton
+153,"Elton Brand, DAL",72,21.2,.499,10.8,8.8,15.4,9.7,21.5,15.7,15.19,15.19,84.1,2.8,http://insider.espn.go.com/nba/players/hollinger?playerId=91,Elton Brand
+154,"Andrew Nicholson, ORL",75,16.7,.557,6.8,12.1,19.9,6.2,17.1,11.7,15.12,15.12,67.6,2.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6614,Andrew Nicholson
+,"Luol Deng, CHI",75,38.7,.508,14.0,9.1,20.3,6.3,12.6,9.4,15.12,15.12,200.2,6.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2429,Luol Deng
+156,"Glen Davis, ORL",34,31.3,.483,10.6,9.6,23.2,5.8,20.3,13.1,15.09,15.09,57.0,1.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3200,Glen Davis
+157,"Jeff Green, BOS",81,27.8,.561,10.8,11.2,19.6,3.0,13.4,8.3,15.01,15.01,118.0,3.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3209,Jeff Green
+158,"Chauncey Billups, LAC",22,19.0,.601,21.5,11.4,18.9,0.6,8.4,4.6,15.00,15.00,25.0,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=63,Chauncey Billups
+159,"Jeremy Lin, HOU",82,32.2,.538,28.4,13.5,20.6,1.4,9.1,5.3,14.94,14.94,155.1,5.2,http://insider.espn.go.com/nba/players/hollinger?playerId=4299,Jeremy Lin
+160,"Omer Asik, HOU",82,30.0,.558,7.5,17.4,14.7,12.8,31.0,22.0,14.89,14.89,157.9,5.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3414,Omer Asik
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Jared Dudley, PHX",79,27.5,.582,19.4,9.7,16.5,4.1,8.9,6.4,14.89,14.89,142.2,4.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3201,Jared Dudley
+162,"Jared Cunningham, DAL",8,3.3,.538,5.6,11.2,26.0,4.4,8.4,6.4,14.86,14.86,1.7,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6582,Jared Cunningham
+163,"DeMar DeRozan, TOR",82,36.7,.523,11.5,8.5,22.1,1.9,10.9,6.3,14.81,14.81,193.6,6.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3978,DeMar DeRozan
+164,"D.J. White, BOS",12,7.2,.538,12.1,6.1,14.2,5.7,12.0,8.9,14.76,14.76,4.2,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3469,D.J. White
+,"Corey Brewer, DEN",82,24.4,.506,10.3,8.5,21.6,3.1,9.9,6.6,14.76,14.76,127.3,4.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3191,Corey Brewer
+166,"Bernard James, DAL",46,9.9,.541,4.1,12.4,12.1,12.9,18.9,16.0,14.74,14.74,28.3,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6593,Bernard James
+,"JJ Redick, MIL/ORL",78,30.5,.571,21.2,9.9,18.5,0.8,7.3,4.0,14.74,14.74,150.4,5.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3024,JJ Redick
+168,"Ray Allen, MIA",79,25.8,.599,14.1,10.7,17.3,2.6,10.1,6.6,14.72,14.72,128.3,4.3,http://insider.espn.go.com/nba/players/hollinger?playerId=9,Ray Allen
+169,"Devin Harris, ATL",58,24.5,.565,24.8,11.1,18.6,0.5,8.7,4.7,14.69,14.69,78.3,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=2382,Devin Harris
+170,"Jimmer Fredette, SAC",69,14.0,.546,15.0,11.1,22.4,2.2,6.4,4.2,14.66,14.66,52.8,1.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6434,Jimmer Fredette
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"DeJuan Blair, SA",61,14.0,.543,11.4,12.4,16.9,9.5,21.1,15.6,14.66,14.66,51.5,1.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3965,DeJuan Blair
+172,"Brian Roberts, NO",78,17.0,.509,26.2,8.5,21.6,1.5,7.3,4.4,14.65,14.65,72.2,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6641,Brian Roberts
+173,"Jason Thompson, SAC",82,27.9,.533,8.2,9.9,16.6,8.4,19.5,13.8,14.64,14.64,107.0,3.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3462,Jason Thompson
+174,"Jeff Ayres, IND",37,10.0,.533,8.6,13.2,18.1,8.9,22.2,15.7,14.57,14.57,16.9,0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=4008,Jeff Ayres
+175,"Derrick Williams, MIN",78,24.6,.515,4.4,9.6,21.2,5.6,20.6,12.8,14.55,14.55,87.3,2.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6480,Derrick Williams
+176,"Taj Gibson, CHI",65,22.4,.518,9.6,12.0,16.7,9.7,17.5,13.6,14.50,14.50,65.3,2.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3986,Taj Gibson
+177,"Mo Williams, UTAH",46,30.8,.519,29.1,12.8,22.5,2.0,7.2,4.5,14.47,14.47,73.5,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2178,Mo Williams
+,"Slava Kravtsov, DET",25,9.0,.618,10.6,16.4,14.3,12.1,11.0,11.6,14.47,14.47,12.9,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6636,Slava Kravtsov
+179,"Jameer Nelson, ORL",56,35.3,.498,29.7,11.1,22.6,1.3,10.6,6.0,14.44,14.44,101.4,3.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2439,Jameer Nelson
+180,"Beno Udrih, MIL/ORL",66,22.1,.516,32.4,11.6,19.0,2.5,8.2,5.3,14.28,14.28,71.4,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2448,Beno Udrih
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Reggie Jackson, OKC",70,14.2,.531,23.1,10.1,17.7,2.6,15.6,9.6,14.28,14.28,48.6,1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6443,Reggie Jackson
+182,"Danny Green, SA",80,27.5,.600,15.1,10.1,14.9,2.0,10.3,6.4,14.19,14.19,121.2,4.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3988,Danny Green
+183,"Patty Mills, SA",58,11.3,.590,17.7,11.1,18.5,1.7,6.8,4.4,14.16,14.16,30.9,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4004,Patty Mills
+,"J.J. Barea, MIN",74,23.1,.510,23.4,11.5,24.5,2.2,11.9,6.9,14.16,14.16,80.7,2.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3055,J.J. Barea
+185,"Joe Johnson, BKN",72,36.7,.521,16.9,8.2,20.8,2.4,7.4,4.9,14.14,14.14,143.5,4.8,http://insider.espn.go.com/nba/players/hollinger?playerId=1007,Joe Johnson
+186,"Wesley Matthews, POR",69,34.8,.574,14.8,9.3,17.7,1.7,7.6,4.6,14.10,14.10,129.1,4.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4032,Wesley Matthews
+187,"Charlie Villanueva, DET",69,15.8,.481,9.3,6.7,20.1,5.1,20.6,12.7,14.08,14.08,42.0,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2792,Charlie Villanueva
+188,"Trevor Ariza, WSH",56,26.3,.538,16.4,12.2,16.7,3.3,16.9,10.0,14.04,14.04,77.8,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=2426,Trevor Ariza
+,"Daniel Orton, OKC",13,8.0,.493,9.6,9.6,14.7,15.5,13.4,14.3,14.04,14.04,5.3,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=4263,Daniel Orton
+,"Michael Kidd-Gilchrist, CHA",78,26.0,.506,12.8,11.1,16.6,7.2,18.9,12.9,14.04,14.04,106.9,3.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6601,Michael Kidd-Gilchrist
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+191,"O.J. Mayo, DAL",82,35.5,.556,21.2,12.4,19.7,1.4,9.6,5.6,14.00,14.00,152.0,5.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3450,O.J. Mayo
+192,"Kenyon Martin, NY",18,23.9,.583,5.9,11.9,12.3,8.9,17.1,12.9,13.94,13.94,15.7,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=515,Kenyon Martin
+193,"Kyle Korver, ATL",74,30.5,.637,17.2,8.2,13.3,1.2,13.5,7.4,13.93,13.93,115.8,3.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2011,Kyle Korver
+,"James Anderson, HOU/SA",39,10.3,.539,20.5,12.2,17.3,5.2,15.0,10.2,13.93,13.93,20.6,0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=4242,James Anderson
+195,"C.J. Watson, BKN",80,19.0,.544,22.1,9.5,16.9,2.9,8.4,5.6,13.90,13.90,65.9,2.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3277,C.J. Watson
+,"Trevor Booker, WSH",48,18.5,.509,12.4,9.6,13.4,12.2,17.8,14.9,13.90,13.90,31.7,1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4270,Trevor Booker
+197,"Martell Webster, WSH",76,28.9,.601,15.0,9.4,15.7,2.7,12.2,7.4,13.89,13.89,111.3,3.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2795,Martell Webster
+198,"Evan Fournier, DEN",38,11.3,.597,17.9,13.1,19.5,1.6,7.4,4.6,13.88,13.88,21.6,0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6588,Evan Fournier
+199,"Jordan Crawford, BOS/WSH",70,24.4,.512,19.4,12.1,21.2,2.9,10.9,6.9,13.82,13.82,84.6,2.8,http://insider.espn.go.com/nba/players/hollinger?playerId=4243,Jordan Crawford
+200,"Malcolm Thomas, CHI/GS",12,4.8,.555,19.5,14.6,15.3,10.0,21.7,15.9,13.81,13.81,2.0,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6511,Malcolm Thomas
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+201,"Andrew Bogut, GS",32,24.6,.463,22.1,11.6,12.8,9.8,24.1,17.2,13.81,13.81,37.6,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2747,Andrew Bogut
+202,"Dion Waiters, CLE",61,28.8,.492,15.1,10.0,24.7,1.4,8.8,4.9,13.77,13.77,85.8,2.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6628,Dion Waiters
+203,"Al-Farouq Aminu, NO",76,27.2,.519,13.7,15.4,13.8,7.9,26.2,16.9,13.73,13.73,99.4,3.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4248,Al-Farouq Aminu
+204,"Bradley Beal, WSH",56,31.2,.515,13.9,9.1,20.5,2.7,10.8,6.7,13.69,13.69,83.1,2.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6580,Bradley Beal
+205,"Kris Humphries, BKN",65,18.3,.515,7.1,12.6,15.0,12.4,23.9,18.1,13.67,13.67,38.6,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2433,Kris Humphries
+206,"Mike Dunleavy, MIL",75,25.9,.577,15.8,9.8,16.4,1.7,14.9,8.0,13.64,13.64,90.9,3.0,http://insider.espn.go.com/nba/players/hollinger?playerId=1708,Mike Dunleavy
+207,"Nick Collison, OKC",81,19.5,.624,23.3,13.3,10.9,9.6,14.2,12.1,13.60,13.60,49.5,1.7,http://insider.espn.go.com/nba/players/hollinger?playerId=1978,Nick Collison
+208,"Leandro Barbosa, BOS/WSH",41,12.5,.509,20.0,7.2,19.7,1.9,8.5,5.3,13.57,13.57,23.5,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2166,Leandro Barbosa
+209,"MarShon Brooks, BKN",73,12.5,.523,14.6,13.2,21.4,4.1,9.4,6.7,13.55,13.55,41.5,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6428,MarShon Brooks
+210,"Cory Joseph, SA",28,13.9,.528,27.4,10.9,16.0,3.8,11.3,7.8,13.52,13.52,14.6,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6446,Cory Joseph
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Jared Sullinger, BOS",45,19.8,.534,11.1,9.2,13.2,12.6,22.1,17.5,13.52,13.52,26.8,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6624,Jared Sullinger
+212,"Jerryd Bayless, MEM",80,22.1,.514,24.9,11.3,20.7,1.4,10.5,5.9,13.51,13.51,66.0,2.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3417,Jerryd Bayless
+213,"Mike Miller, MIA",59,15.3,.596,26.8,9.5,13.7,2.6,18.0,10.7,13.49,13.49,40.2,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=558,Mike Miller
+214,"Jason Kidd, NY",76,26.9,.532,33.0,10.1,11.8,2.8,16.2,9.3,13.48,13.48,75.5,2.5,http://insider.espn.go.com/nba/players/hollinger?playerId=429,Jason Kidd
+215,"Toney Douglas, HOU/SAC",71,18.2,.531,20.5,11.0,19.7,3.0,9.2,6.1,13.46,13.46,47.2,1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3979,Toney Douglas
+216,"Carlos Delfino, HOU",67,25.2,.549,15.9,8.5,17.3,1.2,13.4,7.4,13.39,13.39,72.9,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=1999,Carlos Delfino
+,"Jeff Adrien, CHA",52,13.7,.493,12.9,11.4,14.4,10.6,21.2,15.7,13.39,13.39,30.7,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4335,Jeff Adrien
+218,"Nick Young, PHI",59,23.9,.525,11.5,6.8,19.4,1.9,8.7,5.2,13.38,13.38,60.6,2.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3243,Nick Young
+219,"Dante Cunningham, MIN",80,25.1,.485,8.0,6.7,15.7,7.8,15.6,11.6,13.35,13.35,55.5,1.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3974,Dante Cunningham
+220,"Kurt Thomas, NY",39,10.1,.547,17.8,6.8,10.9,6.9,20.1,13.3,13.32,13.32,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=846,Kurt Thomas
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+221,"Mario Chalmers, MIA",77,26.9,.576,28.1,12.3,15.5,1.2,8.6,5.1,13.29,13.29,70.5,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3419,Mario Chalmers
+222,"Tony Allen, MEM",79,26.7,.489,10.7,10.3,16.6,6.6,13.8,10.2,13.26,13.26,86.8,2.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2367,Tony Allen
+223,"Reggie Williams, CHA",40,9.5,.517,19.6,9.5,18.3,2.3,13.3,7.7,13.22,13.22,15.5,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=4229,Reggie Williams
+224,"Shannon Brown, PHX",59,23.8,.493,13.4,9.2,20.7,3.5,8.7,6.0,13.14,13.14,44.7,1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=2992,Shannon Brown
+225,"Zaza Pachulia, ATL",52,21.8,.534,18.1,16.1,13.5,13.5,20.3,17.0,13.11,13.11,42.6,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2016,Zaza Pachulia
+226,"Travis Outlaw, SAC",38,11.7,.500,8.8,7.9,19.9,4.3,11.7,7.9,13.10,13.10,17.2,0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=2015,Travis Outlaw
+227,"John Jenkins, ATL",61,14.8,.576,13.3,9.5,17.0,2.2,9.6,6.0,13.08,13.08,34.7,1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6594,John Jenkins
+228,"Luke Ridnour, MIN",82,30.2,.532,23.5,9.8,17.9,1.8,7.9,4.8,13.07,13.07,76.6,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1985,Luke Ridnour
+229,"Arron Afflalo, ORL",64,36.0,.527,15.3,10.2,21.0,1.4,10.3,5.8,13.02,13.02,86.8,2.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3187,Arron Afflalo
+230,"Pablo Prigioni, NY",78,16.2,.595,42.7,15.6,12.9,3.7,9.8,6.6,13.01,13.01,37.9,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4182,Pablo Prigioni
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+231,"Shaun Livingston, CLE/WSH",66,22.0,.536,31.6,11.2,15.2,2.4,10.4,6.2,13.00,13.00,43.5,1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2393,Shaun Livingston
+,"Rodney Stuckey, DET",76,28.6,.505,21.2,10.5,20.4,2.2,9.1,5.6,13.00,13.00,64.7,2.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3235,Rodney Stuckey
+233,"Austin Daye, DET/MEM",55,12.3,.554,14.3,9.9,14.5,2.7,18.8,10.6,12.96,12.96,14.8,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3976,Austin Daye
+234,"Omri Casspi, CLE",43,11.7,.486,12.3,9.6,16.6,4.4,22.7,13.1,12.94,12.94,18.3,0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3554,Omri Casspi
+235,"Gustavo Alfonso Ayon, MIL/ORL",55,13.3,.540,23.1,15.3,14.4,9.0,21.3,15.1,12.86,12.86,14.9,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6546,Gustavo Alfonso Ayon
+236,"John Lucas III, TOR",63,13.1,.483,22.1,5.5,20.0,1.1,8.3,4.7,12.84,12.84,22.8,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2866,John Lucas III
+237,"Thabo Sefolosha, OKC",81,27.5,.618,18.2,9.3,10.6,3.2,12.4,8.2,12.83,12.83,77.6,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3028,Thabo Sefolosha
+238,"Reggie Evans, BKN",80,24.6,.506,8.4,21.7,10.2,15.5,38.0,26.7,12.81,12.81,38.5,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1828,Reggie Evans
+,"Jason Terry, BOS",79,26.9,.566,19.7,10.1,16.5,1.1,7.6,4.4,12.81,12.81,73.3,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=841,Jason Terry
+240,"Ben Gordon, CHA",75,20.8,.515,12.9,12.4,25.7,1.3,8.5,4.8,12.74,12.74,52.2,1.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2381,Ben Gordon
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+241,"Klay Thompson, GS",82,35.8,.533,11.3,9.7,19.8,1.2,10.0,5.7,12.71,12.71,96.8,3.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6475,Klay Thompson
+242,"Josh McRoberts, ORL/CHA",67,22.2,.527,24.0,11.2,12.7,7.0,18.0,12.4,12.69,12.69,26.4,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=3220,Josh McRoberts
+243,"Chase Budinger, MIN",23,22.1,.516,9.7,8.9,18.8,3.3,13.0,8.0,12.66,12.66,16.4,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3968,Chase Budinger
+,"Markieff Morris, PHX",82,22.4,.473,11.7,11.3,18.2,7.9,16.7,12.3,12.66,12.66,31.7,1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6461,Markieff Morris
+245,"Cory Higgins, CHA",6,5.3,.352,20.1,0.0,27.0,3.5,7.4,5.4,12.65,12.65,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6544,Cory Higgins
+246,"Alan Anderson, TOR",65,23.0,.509,11.9,9.3,21.6,2.7,9.2,5.9,12.61,12.61,47.0,1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6569,Alan Anderson
+247,"Jason Richardson, PHI",33,28.4,.495,11.9,6.1,17.0,2.2,13.4,7.7,12.60,12.60,29.3,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=1018,Jason Richardson
+248,"Metta World Peace, LAL",75,33.7,.517,10.1,8.8,15.9,4.5,11.5,8.1,12.55,12.55,77.4,2.6,http://insider.espn.go.com/nba/players/hollinger?playerId=25,Metta World Peace
+249,"Maurice Harkless, ORL",76,26.0,.504,6.8,9.3,14.3,7.0,12.2,9.6,12.54,12.54,60.2,2.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6591,Maurice Harkless
+,"Damien Wilkins, PHI",61,18.0,.533,18.1,9.7,16.4,3.2,7.8,5.4,12.54,12.54,33.4,1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2506,Damien Wilkins
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+251,"Caron Butler, LAC",78,24.1,.535,8.6,7.9,18.4,2.6,11.4,7.1,12.50,12.50,56.0,1.9,http://insider.espn.go.com/nba/players/hollinger?playerId=1705,Caron Butler
+252,"Dominique Jones, DAL",29,11.7,.438,32.8,15.0,23.0,6.0,8.7,7.4,12.48,12.48,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4246,Dominique Jones
+253,"Earl Clark, LAL",59,23.1,.510,11.9,11.3,14.4,6.8,19.1,13.1,12.47,12.47,40.0,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3971,Earl Clark
+254,"A.J. Price, WSH",57,22.4,.501,28.9,9.0,17.9,1.7,8.2,4.9,12.45,12.45,27.7,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4010,A.J. Price
+255,"Mirza Teletovic, BKN",53,9.4,.495,9.9,8.6,18.0,7.8,14.8,11.2,12.39,12.39,6.6,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=4385,Mirza Teletovic
+256,"Brandon Bass, BOS",81,27.6,.535,10.3,9.8,13.7,7.0,15.2,11.2,12.38,12.38,29.3,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2745,Brandon Bass
+257,"Timofey Mozgov, DEN",41,8.9,.549,6.8,18.9,13.3,15.6,17.1,16.4,12.37,12.37,9.6,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4298,Timofey Mozgov
+258,"Terrence Williams, BOS",24,13.3,.518,22.9,13.2,17.8,1.5,14.4,8.2,12.35,12.35,8.8,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4019,Terrence Williams
+,"Byron Mullens, CHA",53,26.9,.465,10.6,9.7,19.9,5.5,22.0,13.5,12.35,12.35,37.2,1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=4005,Byron Mullens
+260,"Wayne Ellington, CLE/MEM",78,21.3,.546,14.4,7.9,16.5,1.7,10.3,5.8,12.29,12.29,44.3,1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3981,Wayne Ellington
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+261,"Donatas Motiejunas, HOU",44,12.2,.531,10.2,12.2,20.1,7.7,11.9,9.8,12.28,12.28,6.2,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6464,Donatas Motiejunas
+262,"Evan Turner, PHI",82,35.3,.478,21.0,11.1,20.3,2.1,18.5,10.1,12.16,12.16,71.5,2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4239,Evan Turner
+263,"Meyers Leonard, POR",69,17.5,.596,8.3,12.3,12.6,7.6,17.1,12.3,12.14,12.14,27.6,0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=6605,Meyers Leonard
+264,"Anthony Morrow, ATL/DAL",41,9.3,.530,7.4,4.6,16.7,3.3,5.6,4.5,12.09,12.09,9.1,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3474,Anthony Morrow
+265,"Brandon Knight, DET",75,31.5,.511,20.4,13.8,22.0,2.6,9.6,6.0,12.04,12.04,36.7,1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6448,Brandon Knight
+266,"Ekpe Udoh, MIL",76,17.3,.503,10.6,10.6,11.2,8.9,11.7,10.3,12.00,12.00,9.9,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4261,Ekpe Udoh
+,"Brandon Rush, GS",2,12.5,.678,13.1,19.6,21.8,0.0,4.3,2.2,12.00,12.00,0.6,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3457,Brandon Rush
+268,"Boris Diaw, SA",75,22.8,.603,28.8,13.4,11.6,4.7,12.0,8.6,11.96,11.96,34.6,1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2167,Boris Diaw
+269,"Darrell Arthur, MEM",59,16.4,.477,7.2,9.4,18.5,8.1,12.5,10.3,11.89,11.89,5.6,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3413,Darrell Arthur
+270,"Matt Bonner, SA",68,13.4,.609,12.5,5.5,11.4,3.4,12.5,8.2,11.88,11.88,5.1,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=1996,Matt Bonner
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+271,"Aaron Brooks, HOU/SAC",53,18.8,.555,21.9,12.9,19.1,1.5,7.9,4.6,11.87,11.87,12.9,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3192,Aaron Brooks
+272,"Willie Green, LAC",72,16.5,.562,11.3,6.4,15.3,1.7,7.9,4.9,11.85,11.85,24.0,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2004,Willie Green
+,"Lance Stephenson, IND",78,29.2,.530,22.7,11.1,14.9,2.3,12.3,7.4,11.85,11.85,45.7,1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=4244,Lance Stephenson
+274,"Mickael Gelabale, MIN",36,17.9,.605,13.6,8.4,10.7,5.5,12.3,8.8,11.84,11.84,12.8,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2756,Mickael Gelabale
+275,"Steve Blake, LAL",45,26.1,.573,33.2,11.9,13.5,2.0,10.1,6.2,11.77,11.77,13.5,0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=1994,Steve Blake
+276,"Randy Foye, UTAH",82,27.4,.550,15.7,8.7,17.1,0.9,5.8,3.3,11.75,11.75,25.0,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=3003,Randy Foye
+277,"Iman Shumpert, NY",45,22.1,.516,18.4,9.1,14.7,3.5,12.8,8.0,11.72,11.72,18.1,0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6468,Iman Shumpert
+278,"Courtney Lee, BOS",78,24.9,.545,18.1,10.7,14.4,1.9,9.4,5.8,11.71,11.71,35.1,1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=3445,Courtney Lee
+279,"Hasheem Thabeet, OKC",66,11.7,.619,6.1,22.6,8.9,11.1,17.5,14.5,11.62,11.62,11.7,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4016,Hasheem Thabeet
+280,"Gary Neal, SA",68,21.8,.512,15.6,8.3,19.6,1.1,9.6,5.6,11.59,11.59,13.1,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4300,Gary Neal
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+281,"Gerald Wallace, BKN",69,30.1,.490,21.7,13.2,14.2,3.9,14.3,9.1,11.58,11.58,33.6,1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=1026,Gerald Wallace
+,"P.J. Tucker, PHX",79,24.2,.525,16.6,10.2,12.1,7.7,13.3,10.4,11.58,11.58,30.8,1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3033,P.J. Tucker
+283,"Hakim Warrick, NO/ORL/CHA",28,17.5,.476,9.7,11.3,17.1,4.8,16.4,10.4,11.56,11.56,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2794,Hakim Warrick
+284,"Tayshaun Prince, DET/MEM",82,32.1,.486,16.9,7.7,17.1,3.1,13.2,8.1,11.53,11.53,40.5,1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1724,Tayshaun Prince
+,"Lavoy Allen, PHI",79,21.1,.474,12.0,9.0,13.6,10.5,16.5,13.4,11.53,11.53,23.2,0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6424,Lavoy Allen
+286,"Alec Burks, UTAH",64,17.8,.507,15.1,12.1,19.5,3.8,11.2,7.5,11.51,11.51,8.7,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6429,Alec Burks
+287,"Khris Middleton, DET",27,17.6,.532,14.4,5.7,15.0,1.0,11.4,6.1,11.43,11.43,6.6,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6609,Khris Middleton
+288,"Julyan Stone, DEN",4,7.0,.931,25.8,25.8,8.9,8.2,3.9,6.0,11.42,11.42,0.2,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6543,Julyan Stone
+289,"Jodie Meeks, LAL",78,21.3,.540,10.0,7.5,15.2,2.5,8.7,5.7,11.40,11.40,22.4,0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=4003,Jodie Meeks
+,"Orlando Johnson, IND",51,12.1,.523,17.4,10.7,15.7,3.7,15.9,9.9,11.40,11.40,8.3,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6595,Orlando Johnson
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+291,"Shelvin Mack, ATL/PHI/WSH",31,13.4,.537,28.9,14.5,19.2,0.0,0.0,0.0,11.37,11.37,2.3,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6454,Shelvin Mack
+,"Ryan Hollins, LAC",60,11.1,.674,5.3,21.2,12.2,9.1,15.7,12.5,11.37,11.37,7.6,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3008,Ryan Hollins
+293,"Kent Bazemore, GS",61,4.4,.454,12.5,10.3,23.5,2.1,6.8,4.5,11.34,11.34,3.4,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6637,Kent Bazemore
+294,"Steve Novak, NY",81,20.3,.602,7.1,2.4,11.7,1.2,10.0,5.4,11.33,11.33,20.4,0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=3018,Steve Novak
+295,"Luke Walton, CLE",50,17.1,.453,39.9,14.4,14.2,4.9,15.2,9.8,11.32,11.32,10.5,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2027,Luke Walton
+296,"Marcus Morris Sr., HOU/PHX",77,19.8,.516,8.7,10.7,16.6,6.0,14.6,10.3,11.31,11.31,-4.2,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6462,Marcus Morris Sr.
+297,"Jason Maxiell, DET",72,24.8,.478,8.2,12.4,14.0,8.5,18.0,13.2,11.30,11.30,-5.3,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2775,Jason Maxiell
+298,"Andrea Bargnani, TOR",35,28.7,.482,6.9,9.8,21.3,3.0,12.3,7.6,11.27,11.27,-3.5,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2987,Andrea Bargnani
+299,"Keyon Dooling, MEM",7,11.7,.644,21.6,13.5,16.0,0.0,1.5,0.7,11.25,11.25,0.3,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=209,Keyon Dooling
+300,"Jeremy Lamb, OKC",23,6.4,.479,5.9,7.0,21.9,4.2,9.4,7.0,11.21,11.21,1.6,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6603,Jeremy Lamb
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+301,"Lazar Hayward, MIN",4,7.8,.396,19.2,0.0,17.5,0.0,15.2,7.4,11.21,11.21,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4277,Lazar Hayward
+302,"Nando De Colo, SA",72,12.8,.530,28.8,16.9,16.5,3.1,13.7,8.7,11.15,11.15,2.1,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3977,Nando De Colo
+,"Cole Aldrich, HOU/SAC",45,8.6,.563,7.5,19.0,11.3,8.8,26.6,17.6,11.15,11.15,3.2,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4267,Cole Aldrich
+304,"Kevin Jones, CLE",32,10.4,.418,7.6,6.1,14.9,12.6,14.6,13.5,11.14,11.14,-1.8,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2326257,Kevin Jones
+305,"Rashard Lewis, MIA",55,14.4,.530,9.0,9.9,16.0,3.1,15.0,9.4,11.13,11.13,-4.4,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=469,Rashard Lewis
+306,"Harrison Barnes, GS",81,25.4,.526,10.8,11.1,16.0,2.9,14.5,8.9,11.08,11.08,17.7,0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6578,Harrison Barnes
+307,"Francisco Garcia, HOU/SAC",58,17.7,.519,15.6,7.9,14.0,0.9,9.4,5.1,11.06,11.06,8.6,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2755,Francisco Garcia
+308,"D.J. Augustin, IND",76,16.1,.527,29.5,11.8,15.3,1.9,6.3,4.1,11.04,11.04,0.8,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3415,D.J. Augustin
+309,"Tyler Zeller, CLE",77,26.4,.486,11.7,11.6,14.8,8.7,16.7,12.5,11.02,11.02,12.8,0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6631,Tyler Zeller
+310,"Alexey Shved, MIN",77,23.9,.474,25.2,13.0,20.3,2.5,8.6,5.4,11.01,11.01,0.2,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3882,Alexey Shved
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Johan Petro, ATL",31,11.4,.468,10.3,15.5,16.4,10.9,25.3,18.2,11.01,11.01,2.1,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2780,Johan Petro
+312,"Quincy Pondexter, MEM",59,21.1,.565,14.0,9.7,13.1,4.0,8.6,6.3,10.98,10.98,8.9,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4253,Quincy Pondexter
+313,"Thomas Robinson, HOU/SAC",70,15.1,.451,9.1,17.5,18.8,13.0,21.3,17.1,10.97,10.97,-8.4,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6618,Thomas Robinson
+314,"Lamar Odom, LAC",82,19.7,.429,23.2,14.0,12.9,8.8,26.3,17.7,10.95,10.95,-13.2,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=617,Lamar Odom
+315,"Sebastian Telfair, PHX/TOR",59,16.6,.488,27.5,11.5,18.0,1.5,8.5,4.9,10.92,10.92,-1.2,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2417,Sebastian Telfair
+316,"Michael Beasley, PHX",75,20.7,.462,10.3,13.4,25.4,3.7,17.2,10.3,10.91,10.91,9.6,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3418,Michael Beasley
+,"Marvin Williams, UTAH",73,23.7,.515,11.8,9.2,14.0,3.7,14.3,8.9,10.91,10.91,-15.2,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=2797,Marvin Williams
+318,"Kirk Hinrich, CHI",60,29.4,.493,35.8,11.3,15.6,1.0,9.3,5.1,10.88,10.88,9.9,0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1981,Kirk Hinrich
+319,"Nazr Mohammed, CHI",63,11.0,.414,10.4,9.6,13.8,12.0,20.4,16.2,10.84,10.84,2.5,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=568,Nazr Mohammed
+320,"Shane Battier, MIA",72,24.8,.623,14.9,7.0,9.9,2.7,8.4,5.7,10.77,10.77,7.1,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=976,Shane Battier
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+321,"E'Twaun Moore, ORL",75,22.4,.471,22.0,11.2,19.0,3.2,8.0,5.6,10.76,10.76,6.6,0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6460,E'Twaun Moore
+322,"Chris Johnson, MEM",8,12.8,.560,6.5,9.7,12.0,5.7,7.1,6.4,10.73,10.73,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2325975,Chris Johnson
+323,"Chuck Hayes, SAC",74,16.3,.469,30.5,12.0,9.5,10.5,18.2,14.2,10.71,10.71,-14.3,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=2834,Chuck Hayes
+324,"Ian Mahinmi, IND",80,16.5,.497,5.2,17.6,15.6,9.9,16.2,13.1,10.65,10.65,0.9,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2774,Ian Mahinmi
+,"Richard Hamilton, CHI",50,21.8,.481,16.7,11.8,23.9,1.7,7.2,4.4,10.65,10.65,2.4,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=294,Richard Hamilton
+326,"Rodrigue Beaubois, DAL",45,12.2,.470,27.1,10.7,18.1,1.9,9.6,5.8,10.64,10.64,-3.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3963,Rodrigue Beaubois
+327,"Jamaal Tinsley, UTAH",66,18.5,.467,45.2,16.5,14.8,1.6,9.5,5.5,10.60,10.60,-7.3,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=1024,Jamaal Tinsley
+328,"Alonzo Gee, CLE",82,31.0,.505,12.1,12.0,15.8,3.3,11.7,7.3,10.56,10.56,2.2,0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4232,Alonzo Gee
+329,"Greg Stiemsma, MIN",76,15.9,.498,7.6,14.8,12.4,5.6,19.5,12.3,10.52,10.52,-1.5,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4235,Greg Stiemsma
+330,"Terrence Ross, TOR",73,17.0,.491,9.2,8.3,17.8,3.3,10.6,6.9,10.48,10.48,-0.3,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6619,Terrence Ross
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+331,"Jeremy Pargo, CLE/PHI",39,16.8,.478,21.9,11.9,23.4,1.3,7.5,4.3,10.46,10.46,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6497,Jeremy Pargo
+,"Jon Leuer, CLE/MEM",28,6.7,.485,10.9,10.9,16.3,7.9,15.5,11.6,10.46,10.46,-2.9,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6452,Jon Leuer
+333,"Joel Anthony, MIA",62,9.1,.542,11.3,19.1,7.7,10.4,14.4,12.5,10.44,10.44,-1.4,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3247,Joel Anthony
+334,"Marco Belinelli, CHI",73,25.8,.513,16.2,9.0,17.8,0.8,7.8,4.3,10.43,10.43,-1.9,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3190,Marco Belinelli
+335,"Al Harrington, ORL",10,11.9,.434,13.2,9.2,23.2,5.7,19.9,12.8,10.39,10.39,-2.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=308,Al Harrington
+336,"Jannero Pargo, ATL/WSH/CHA",32,15.8,.475,20.6,12.6,17.7,0.0,0.0,0.0,10.38,10.38,-4.7,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=1821,Jannero Pargo
+337,"Kevin Seraphin, WSH",79,21.8,.478,6.1,13.8,21.0,6.8,15.5,11.1,10.37,10.37,-28.9,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4289,Kevin Seraphin
+338,"Richard Jefferson, GS",56,10.1,.552,14.5,10.8,13.2,1.0,14.9,8.1,10.36,10.36,-1.2,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=1006,Richard Jefferson
+339,"Wesley Johnson, PHX",50,19.1,.485,6.9,9.7,19.4,2.5,12.4,7.3,10.34,10.34,-2.3,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4247,Wesley Johnson
+340,"Jeffery Taylor, CHA",77,19.6,.531,11.3,8.6,13.7,3.8,7.7,5.7,10.33,10.33,-3.8,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6156,Jeffery Taylor
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+341,"Landry Fields, TOR",51,20.3,.487,17.2,12.1,12.1,6.7,17.4,11.9,10.31,10.31,-2.9,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=4274,Landry Fields
+342,"James Johnson, SAC",54,16.3,.442,13.2,15.5,17.9,6.2,12.9,9.5,10.28,10.28,-15.9,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3999,James Johnson
+343,"Jae Crowder, DAL",78,17.3,.491,17.3,9.0,13.9,2.9,12.3,7.7,10.25,10.25,-5.1,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6581,Jae Crowder
+344,"John Salmons, SAC",76,30.0,.509,23.3,8.8,14.1,1.6,9.0,5.2,10.20,10.20,-10.2,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1726,John Salmons
+345,"Hamed Haddadi, PHX/TOR/MEM",30,10.7,.447,8.8,22.6,17.0,15.0,24.8,19.8,10.18,10.18,-2.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3478,Hamed Haddadi
+346,"Lance Thomas, NO",59,10.9,.565,10.4,8.6,9.8,8.0,13.3,10.6,10.09,10.09,-3.9,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6485,Lance Thomas
+347,"Bismack Biyombo, CHA",80,27.3,.472,6.7,15.6,9.2,9.9,20.9,15.2,10.07,10.07,-46.8,-1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6427,Bismack Biyombo
+348,"Roger Mason Jr., NO",69,17.7,.570,16.5,11.4,13.6,1.1,12.0,6.5,10.03,10.03,-8.6,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1721,Roger Mason Jr.
+349,"Ronnie Brewer, NY/OKC",60,14.2,.416,17.7,6.4,12.7,5.7,13.6,9.6,10.02,10.02,-6.1,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2991,Ronnie Brewer
+,"Kyle Singler, DET",82,28.0,.517,8.8,11.2,14.5,5.4,11.3,8.3,10.02,10.02,-16.3,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6469,Kyle Singler
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+351,"Juwan Howard, MIA",7,7.3,.540,20.4,13.6,20.3,0.0,18.3,9.7,9.96,9.96,-1.2,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=351,Juwan Howard
+352,"Gerald Green, IND",60,18.0,.465,9.0,9.5,19.7,3.3,11.1,7.3,9.92,9.92,-9.4,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2761,Gerald Green
+353,"Udonis Haslem, MIA",75,18.9,.535,10.7,12.7,9.4,9.0,25.3,17.6,9.89,9.89,-33.9,-1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2184,Udonis Haslem
+354,"Malcolm Lee, MIN",16,18.1,.460,17.4,8.7,13.9,5.8,9.8,7.7,9.87,9.87,-2.7,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6449,Malcolm Lee
+355,"Cartier Martin, WSH",41,16.9,.511,6.3,10.1,17.5,1.7,14.3,8.0,9.75,9.75,-18.1,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3930,Cartier Martin
+356,"Donald Sloan, NO/CLE",23,11.4,.455,27.0,9.9,9.2,1.3,11.5,6.2,9.65,9.65,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4303,Donald Sloan
+357,"Tyrus Thomas, CHA",26,13.8,.418,10.2,9.2,19.3,4.9,14.4,9.5,9.60,9.60,-10.2,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3032,Tyrus Thomas
+358,"Mike James, DAL",45,19.2,.481,29.1,11.5,17.5,1.2,8.0,4.7,9.56,9.56,-18.6,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1051,Mike James
+359,"Josh Howard, MIN",11,18.8,.450,4.2,10.4,17.9,4.8,15.4,9.9,9.54,9.54,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2006,Josh Howard
+360,"Luke Babbitt, POR",62,11.8,.509,10.0,7.6,15.0,2.4,19.7,10.9,9.47,9.47,-11.2,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4250,Luke Babbitt
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+361,"DeAndre Liggins, OKC",39,7.4,.528,17.9,16.7,10.0,5.5,14.7,10.5,9.40,9.40,-4.8,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6453,DeAndre Liggins
+362,"Ronny Turiaf, LAC",65,10.8,.485,18.5,15.4,9.5,7.8,17.9,12.9,9.37,9.37,-12.9,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2789,Ronny Turiaf
+,"Joel Freeland, POR",51,9.4,.435,7.0,10.2,15.0,9.6,19.5,14.5,9.37,9.37,-15.2,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3004,Joel Freeland
+364,"Eric Maynor, POR/OKC",64,15.0,.472,32.0,13.9,18.9,1.1,4.3,2.8,9.36,9.36,-23.6,-0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=4001,Eric Maynor
+365,"Tony Wroten, MEM",35,7.8,.461,25.2,17.0,21.7,5.5,6.6,6.1,9.34,9.34,-6.7,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6630,Tony Wroten
+366,"Lou Amundson, NO/CHI/MIN",39,9.5,.392,8.7,15.0,11.9,0.0,0.0,0.0,9.31,9.31,-12.2,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3041,Lou Amundson
+367,"Festus Ezeli, GS",78,14.4,.467,7.6,21.8,9.6,14.3,16.4,15.4,9.30,9.30,-21.7,-0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6587,Festus Ezeli
+368,"Marquis Daniels, MIL",59,18.4,.432,13.4,9.3,15.8,4.6,10.5,7.4,9.20,9.20,-21.0,-0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=2200,Marquis Daniels
+369,"James White, NY",57,7.6,.503,17.0,10.0,14.3,1.3,12.0,6.5,9.15,9.15,-8.8,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3037,James White
+370,"Will Barton, POR",73,12.2,.437,12.7,13.2,18.8,4.6,14.3,9.4,9.12,9.12,-18.4,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6579,Will Barton
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+,"Troy Murphy, DAL",14,18.3,.494,8.8,8.8,11.5,3.1,17.9,10.7,9.12,9.12,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=1013,Troy Murphy
+372,"Luc Mbah a Moute, MIL",58,22.9,.447,9.9,12.6,15.2,7.0,14.0,10.4,9.09,9.09,-47.8,-1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=3451,Luc Mbah a Moute
+373,"Diante Garrett, PHX",19,7.8,.375,30.9,15.9,21.1,3.7,7.8,5.7,9.00,9.00,-4.4,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6663,Diante Garrett
+374,"Aaron Gray, TOR",42,12.2,.544,18.5,20.2,12.4,10.9,20.0,15.4,8.98,8.98,-12.4,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3207,Aaron Gray
+375,"Earl Barron, NY/WSH",12,13.3,.361,7.1,15.7,18.4,15.3,27.9,21.5,8.91,8.91,-4.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2477,Earl Barron
+376,"Avery Bradley, BOS",50,28.7,.461,15.4,10.7,17.0,2.5,6.5,4.6,8.89,8.89,-45.3,-1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=4240,Avery Bradley
+377,"Miles Plumlee, IND",14,3.9,.286,7.2,10.8,19.6,24.8,19.9,22.3,8.83,8.83,-2.2,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6616,Miles Plumlee
+378,"Garrett Temple, WSH",51,22.7,.478,25.5,13.5,12.9,2.8,9.1,5.9,8.82,8.82,-28.9,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4023,Garrett Temple
+379,"Aron Baynes, SA",16,8.8,.521,8.7,19.2,15.0,10.4,15.5,13.1,8.80,8.80,-5.7,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2968439,Aron Baynes
+380,"Kwame Brown, PHI",22,12.2,.452,14.4,12.8,8.5,9.4,22.1,15.5,8.79,8.79,-7.3,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=981,Kwame Brown
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+381,"Brendan Haywood, CHA",61,19.0,.441,9.0,15.4,10.5,12.0,16.7,14.3,8.76,8.76,-31.9,-1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=1000,Brendan Haywood
+382,"Marcus Camby, NY",24,10.4,.342,15.5,16.6,13.3,10.9,27.1,18.7,8.61,8.61,-7.4,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=125,Marcus Camby
+383,"Josh Harrellson, MIA",6,5.2,.506,0.0,23.3,16.9,12.6,15.0,13.9,8.59,8.59,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6439,Josh Harrellson
+384,"Jerry Stackhouse, BKN",37,14.7,.500,14.5,10.0,16.6,1.1,6.1,3.6,8.57,8.57,-15.6,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=802,Jerry Stackhouse
+385,"Tornike Shengelia, BKN",19,4.9,.499,6.8,25.0,18.7,11.4,17.9,14.6,8.54,8.54,-2.7,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6623,Tornike Shengelia
+386,"Ish Smith, MIL/ORL",52,9.9,.379,30.4,12.9,17.7,2.6,10.7,6.6,8.51,8.51,-19.2,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=4305,Ish Smith
+387,"DeQuan Jones, ORL",63,12.7,.485,5.6,10.5,13.7,2.4,12.4,7.4,8.46,8.46,-24.5,-0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=2325490,DeQuan Jones
+388,"Anthony Tolliver, ATL",62,15.5,.531,10.4,11.7,11.8,3.7,14.5,9.2,8.44,8.44,-44.0,-1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=3276,Anthony Tolliver
+389,"Brandon Roy, MIN",5,24.4,.368,33.1,10.1,17.6,2.7,10.6,6.6,8.34,8.34,-3.9,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=3027,Brandon Roy
+,"Chris Douglas-Roberts, DAL",6,10.5,.462,17.1,4.3,12.9,0.0,8.7,4.4,8.34,8.34,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3422,Chris Douglas-Roberts
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+391,"Linas Kleiza, TOR",20,18.8,.460,8.4,7.3,19.5,3.1,13.5,8.2,8.29,8.29,-12.4,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=2770,Linas Kleiza
+392,"Kendrick Perkins, OKC",78,25.1,.479,19.7,19.3,9.9,7.0,19.5,13.7,8.20,8.20,-70.0,-2.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2018,Kendrick Perkins
+393,"James Jones, MIA",38,5.8,.478,16.5,3.8,12.9,0.0,11.6,6.1,8.17,8.17,-7.7,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=2009,James Jones
+394,"Royal Ivey, PHI",53,13.2,.563,15.8,9.9,10.5,2.5,6.8,4.6,8.12,8.12,-30.0,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2387,Royal Ivey
+395,"DeShawn Stevenson, ATL",56,20.7,.522,15.0,6.6,10.8,1.8,10.1,6.0,8.11,8.11,-41.3,-1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=808,DeShawn Stevenson
+,"Darius Morris, LAL",48,14.2,.475,23.4,13.8,15.7,4.0,5.2,4.6,8.11,8.11,-29.5,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6463,Darius Morris
+397,"Stephen Jackson, SA",55,19.5,.473,15.5,14.9,16.9,2.5,13.5,8.3,8.09,8.09,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=378,Stephen Jackson
+398,"Chris Duhon, LAL",46,17.8,.517,44.1,13.3,10.1,1.5,7.5,4.6,8.02,8.02,-36.4,-1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2377,Chris Duhon
+399,"Kim English, DET",41,9.9,.477,15.3,11.2,15.2,2.2,8.4,5.2,7.97,7.97,-15.4,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6586,Kim English
+400,"Norris Cole, MIA",80,19.9,.483,22.5,14.3,15.8,1.5,8.2,5.0,7.92,7.92,-73.2,-2.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6431,Norris Cole
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+401,"Corey Maggette, DET",18,14.3,.489,14.3,12.8,19.0,2.2,9.1,5.6,7.90,7.90,-10.0,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=497,Corey Maggette
+402,"Kendall Marshall, PHX",48,14.6,.455,40.0,16.0,14.7,0.6,6.3,3.4,7.85,7.85,-33.0,-1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6607,Kendall Marshall
+403,"Perry Jones, OKC",38,7.4,.417,7.7,11.5,17.4,5.3,19.1,12.7,7.83,7.83,-11.2,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6598,Perry Jones
+404,"Chris Singleton, WSH",57,16.2,.425,10.5,12.7,14.3,6.1,16.1,11.0,7.81,7.81,-37.1,-1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6470,Chris Singleton
+405,"Daniel Gibson, CLE",46,20.0,.475,21.8,8.2,13.9,0.6,7.3,3.8,7.75,7.75,-37.7,-1.3,http://insider.espn.go.com/nba/players/hollinger?playerId=3006,Daniel Gibson
+406,"Drew Gooden, MIL",16,9.4,.382,7.2,10.8,20.3,8.9,13.3,11.0,7.70,7.70,-8.6,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1711,Drew Gooden
+,"Earl Watson, UTAH",48,17.3,.366,48.7,17.7,12.8,3.2,9.1,6.1,7.70,7.70,-40.9,-1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=1027,Earl Watson
+408,"Derek Fisher, DAL/OKC",33,17.4,.492,18.5,11.8,17.7,0.4,6.6,3.6,7.69,7.69,-28.4,-0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=246,Derek Fisher
+,"Andris Biedrins, GS",53,9.3,.449,25.6,25.6,3.6,7.8,25.7,17.0,7.69,7.69,-28.2,-0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2427,Andris Biedrins
+410,"Dominic McGuire, NO/IND/TOR",26,14.9,.422,21.6,13.0,8.6,0.0,0.0,0.0,7.68,7.68,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3246,Dominic McGuire
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+411,"Jan Vesely, WSH",51,11.8,.480,15.0,14.5,11.2,7.9,14.7,11.3,7.65,7.65,-25.6,-0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4165,Jan Vesely
+,"Xavier Henry, NO",50,12.5,.481,5.3,12.6,15.8,3.9,13.4,8.6,7.65,7.65,-26.6,-0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=4241,Xavier Henry
+413,"Justin Holiday, PHI",9,15.8,.408,19.9,11.9,18.7,0.0,11.5,5.6,7.60,7.60,-6.2,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2284101,Justin Holiday
+414,"Sam Young, IND",56,12.4,.464,17.4,13.6,12.6,4.3,15.3,9.9,7.50,7.50,-31.1,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4020,Sam Young
+415,"Charles Jenkins, GS/PHI",59,7.5,.425,22.5,10.7,16.0,2.0,6.0,4.0,7.49,7.49,-23.1,-0.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6444,Charles Jenkins
+416,"Ben Hansbrough, IND",28,7.1,.501,21.9,18.8,16.7,1.1,8.8,5.0,7.20,7.20,-11.3,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6657,Ben Hansbrough
+417,"Draymond Green, GS",79,13.4,.404,13.8,13.2,12.9,6.2,20.3,13.5,7.15,7.15,-53.0,-1.8,http://insider.espn.go.com/nba/players/hollinger?playerId=6589,Draymond Green
+,"Nolan Smith, POR",40,7.2,.435,18.4,15.2,23.4,2.8,8.2,5.5,7.15,7.15,-16.6,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6471,Nolan Smith
+419,"Victor Claver, POR",49,16.6,.462,14.9,14.9,12.9,4.4,12.8,8.5,7.05,7.05,-41.8,-1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3972,Victor Claver
+420,"Josh Childress, BKN",14,7.1,.320,18.6,0.0,9.8,7.0,10.7,8.9,7.04,7.04,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2373,Josh Childress
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+421,"Ronnie Price, POR",39,13.1,.402,30.7,14.3,14.9,2.9,7.2,5.0,6.81,6.81,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2807,Ronnie Price
+422,"Keith Bogans, BKN",74,19.0,.533,18.2,11.8,10.8,1.3,8.8,5.0,6.69,6.69,-80.1,-2.7,http://insider.espn.go.com/nba/players/hollinger?playerId=1995,Keith Bogans
+423,"DeSagana Diop, CHA",22,10.3,.292,26.8,16.5,7.1,4.9,21.4,12.9,6.63,6.63,-13.4,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=992,DeSagana Diop
+424,"Dahntay Jones, ATL/DAL",78,13.0,.482,13.4,10.6,12.4,2.7,8.4,5.6,6.40,6.40,-62.2,-2.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2008,Dahntay Jones
+425,"Devin Ebanks, LAL",19,10.4,.411,10.0,11.0,18.5,5.7,16.9,11.5,6.37,6.37,-12.1,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=4256,Devin Ebanks
+426,"Darius Miller, NO",52,13.3,.529,24.6,12.9,8.9,1.4,12.2,6.7,6.34,6.34,-43.1,-1.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6610,Darius Miller
+427,"Jeremy Tyler, ATL/GS",21,3.2,.413,3.0,17.8,0.0,10.1,22.1,16.3,6.29,6.29,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6476,Jeremy Tyler
+,"Vladimir Radmanovic, CHI",25,5.8,.372,13.5,11.8,15.4,7.9,14.5,11.2,6.29,6.29,-9.1,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=1016,Vladimir Radmanovic
+429,"Tyshawn Taylor, BKN",38,5.8,.430,14.5,17.3,24.5,1.1,8.6,4.8,6.28,6.28,-15.6,-0.5,http://insider.espn.go.com/nba/players/hollinger?playerId=6625,Tyshawn Taylor
+430,"Samardo Samuels, CLE",18,10.9,.411,9.5,7.1,16.1,5.6,11.2,8.3,6.25,6.25,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4304,Samardo Samuels
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+431,"Sasha Pavlovic, POR",39,13.5,.423,19.1,8.4,11.2,1.5,10.9,6.2,6.20,6.20,-33.9,-1.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2172,Sasha Pavlovic
+432,"Marquis Teague, CHI",48,8.2,.412,28.9,16.1,18.4,0.9,12.1,6.4,6.04,6.04,-29.0,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6626,Marquis Teague
+433,"Scott Machado, GS/HOU",6,3.5,.581,28.7,38.3,30.8,0.0,5.3,2.7,6.02,6.02,-1.6,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6644,Scott Machado
+434,"Mickael Pietrus, TOR",19,20.3,.472,6.9,12.2,13.2,1.5,9.7,5.5,6.00,6.00,-25.9,-0.9,http://insider.espn.go.com/nba/players/hollinger?playerId=2173,Mickael Pietrus
+435,"Austin Rivers, NO",61,23.2,.431,19.9,11.6,16.2,1.3,8.0,4.6,5.95,5.95,-96.4,-3.2,http://insider.espn.go.com/nba/players/hollinger?playerId=6617,Austin Rivers
+436,"Quincy Miller, DEN",7,3.7,.349,17.8,5.9,22.1,4.4,4.2,4.3,5.94,5.94,-1.8,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6611,Quincy Miller
+437,"Daequan Cook, CHI/HOU",49,9.0,.398,9.2,7.3,18.4,1.8,14.0,7.9,5.85,5.85,-30.6,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3196,Daequan Cook
+438,"Luke Zeller, PHX",16,3.6,.365,10.3,0.0,18.3,1.9,18.0,9.8,5.71,5.71,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6502,Luke Zeller
+439,"Maalik Wayns, LAC/PHI",27,7.5,.394,19.5,10.8,24.1,0.6,3.5,2.0,5.10,5.10,-17.8,-0.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6638,Maalik Wayns
+440,"Fab Melo, BOS",6,6.0,.451,0.0,11.4,9.8,0.0,9.6,4.9,4.95,4.95,-3.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6608,Fab Melo
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+441,"Doron Lamb, MIL/ORL",47,12.3,.433,13.6,11.0,17.2,1.5,7.4,4.4,4.85,4.85,-48.6,-1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=6604,Doron Lamb
+442,"Grant Hill, LAC",29,15.1,.428,16.3,15.7,13.1,1.7,11.5,6.7,4.79,4.79,-37.2,-1.2,http://insider.espn.go.com/nba/players/hollinger?playerId=336,Grant Hill
+443,"DaJuan Summers, LAC",2,3.5,.250,20.0,0.0,25.0,0.0,33.5,17.0,4.33,4.33,-0.6,-0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4012,DaJuan Summers
+444,"Danny Granger, IND",5,14.8,.350,6.6,8.8,23.9,4.6,8.9,6.8,4.02,4.02,-7.2,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=2760,Danny Granger
+445,"Robert Sacre, LAL",32,6.3,.407,8.7,14.5,12.5,5.0,13.2,9.2,3.48,3.48,-21.6,-0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=6620,Robert Sacre
+446,"Hedo Turkoglu, ORL",11,17.2,.288,25.4,13.2,15.9,2.4,13.2,7.8,3.39,3.39,-20.1,-0.7,http://insider.espn.go.com/nba/players/hollinger?playerId=862,Hedo Turkoglu
+447,"Joel Przybilla, MIL",12,5.7,.205,31.1,31.1,5.8,7.6,26.2,16.6,3.35,3.35,-7.4,-0.2,http://insider.espn.go.com/nba/players/hollinger?playerId=682,Joel Przybilla
+448,"Jason Collins, BOS/WSH",38,10.1,.476,11.6,26.1,6.6,6.9,11.3,9.1,3.01,3.01,-43.5,-1.5,http://insider.espn.go.com/nba/players/hollinger?playerId=987,Jason Collins
+449,"Matt Carroll, NO/CHA",1,6.0,.000,100.0,0.0,2.2,0.0,0.0,0.0,2.89,2.89,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2211,Matt Carroll
+450,"Jared Jeffries, POR",38,9.2,.343,14.7,17.9,9.9,8.5,11.4,10.0,2.45,2.45,-47.3,-1.6,http://insider.espn.go.com/nba/players/hollinger?playerId=1717,Jared Jeffries
+Hollinger Stats - Player Efficiency Rating - All Players,,,,,,,,,,,,,,,,
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+451,"Tyler Honeycutt, HOU/SAC",9,3.6,.337,10.6,26.5,21.5,10.5,25.8,18.0,1.97,1.97,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6441,Tyler Honeycutt
+452,"Dexter Pittman, MIA/MEM",11,2.9,.325,0.0,19.6,23.7,26.5,18.6,22.5,1.63,1.63,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4283,Dexter Pittman
+453,"Chris Quinn, CLE",7,11.1,.296,28.2,18.8,13.2,1.4,1.6,1.5,1.32,1.32,-11.3,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=3046,Chris Quinn
+454,"Jarvis Varnado, BOS/MIA",13,4.5,.457,16.9,33.8,15.8,4.4,14.0,9.4,1.20,1.20,-8.9,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=4266,Jarvis Varnado
+455,"Quentin Richardson, NY",1,29.0,.210,6.7,13.4,20.1,19.5,20.9,20.2,0.67,0.67,-4.3,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=703,Quentin Richardson
+456,"Kris Joseph, BOS/BKN",10,5.4,.257,4.9,9.7,25.3,2.2,13.0,7.7,0.66,0.66,-7.9,-0.3,http://insider.espn.go.com/nba/players/hollinger?playerId=6599,Kris Joseph
+457,"Josh Selby, CLE/MEM",10,5.9,.373,10.6,18.5,24.7,0.0,10.2,5.0,0.14,0.14,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6467,Josh Selby
+458,"Damion James, BKN",2,0.0,.000,0.0,0.0,0.0,0.0,0.0,0.0,0.00,0.00,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=4252,Damion James
+459,"Chris Wright, DAL",3,1.3,.500,0.0,33.3,29.4,0.0,0.0,0.0,-1.78,-1.78,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6666,Chris Wright
+460,"Terrel Harris, NO/MIA",20,6.9,.239,15.7,29.6,13.6,3.5,19.3,11.4,-3.79,-3.79,-29.2,-1.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6490,Terrel Harris
+RK,PLAYER,GP,MPG,TS%,AST,TO,USG,ORR,DRR,REBR,PER,,VA,EWA,,
+461,"Kevin Murphy, UTAH",17,3.1,.268,6.1,9.1,24.6,0.0,9.1,4.5,-4.44,-4.44,-11.6,-0.4,http://insider.espn.go.com/nba/players/hollinger?playerId=6613,Kevin Murphy
+462,"Solomon Jones, NY",2,13.0,.000,0.0,75.0,6.3,4.4,9.3,6.8,-5.73,-5.73,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=3010,Solomon Jones
+463,"Tim Ohlbrecht, HOU",3,4.0,.436,11.8,47.4,24.8,0.0,9.3,4.7,-6.06,-6.06,-3.0,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=2308999,Tim Ohlbrecht
+464,"Andrew Goudelock, LAL",1,6.0,.000,0.0,0.0,13.0,18.9,0.0,9.2,-6.41,-6.41,-1.6,-0.1,http://insider.espn.go.com/nba/players/hollinger?playerId=6435,Andrew Goudelock
+465,"Darius Johnson-Odom, LAL",4,1.5,.000,20.0,0.0,28.2,18.9,53.7,36.7,-6.66,-6.66,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6596,Darius Johnson-Odom
+466,"Will Conroy, MIN",4,5.0,.051,0.0,0.0,19.6,5.5,0.0,2.9,-15.18,-15.18,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2827,Will Conroy
+467,"Justin Dentmon, DAL",2,2.0,.000,0.0,0.0,19.6,0.0,0.0,0.0,-19.34,-19.34,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=6483,Justin Dentmon
+468,"Darko Milicic, BOS",1,5.0,.000,0.0,66.7,24.1,0.0,23.0,11.8,-30.12,-30.12,0.0,0.0,http://insider.espn.go.com/nba/players/hollinger?playerId=2171,Darko Milicic
