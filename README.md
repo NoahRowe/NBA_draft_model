@@ -1,7 +1,7 @@
 # NBA draft modelling
-A repository to host my efforts to automate the NBA draft selection process.
+A repository containing my work to develop a deep learning selection algorithm for National Basketball Association (NBA) teams to draft players in the annual NBA draft. This project was conducted as my undergraduate thesis for the Engineering Physics (Computing Option) program at Queen’s University. Please find attached a full version of my [final thesis](Full_Thesis.pdf), as well as a [summarized version](Summary_Thesis.pdf). The abstract is copied below.
 
+### Abstract
+Within the National Basketball Association (NBA), it is estimated that on average, a regular season win is worth 3.02 million dollars. Teams are motivated to win through financial incentives and bonuses in the millions of dollars. This contributes to an ultra-competitive climate to build the best clubs. Teams aim to develop rosters through the annual NBA draft, where new recruits are claimed by teams in a structured environment. The NBA draft is a zero-sum process, where teams attempt to secure the best players for themselves, thus negating the possibility of playing against them. Despite the high stakes nature of draft selections teams make critical errors in player selection, often resulting in million dollar losses each year. 
 
-## Summary
-
-As mentioned, a copy of the final thesis is included in the repository (here LINK). A streamlined version, directed towards a more buisness-oriented audiance, 
+This thesis presents an algorithm to automate the draft selection process by making unbiased draft choices. Development of the algorithm is achieved by replicating and extending previous work in this area. Increased performance is achieved through an extended data set, accounting for the impact of existing rosters on draftee performance, and extensive model optimization. This algorithm is limited in its application, as it can be only applied to draftees represented by at least one season of college basketball statistics, thus excluding approximately one third of all draftees. When implemented on the appropriate subset, the automated algorithm is able to provide on average 1.14 additional wins per draft pick. This translates to over 3.4 million dollars in added value per draft pick, or just under an average of 7 million dollars annually.
